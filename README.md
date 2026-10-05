@@ -1,9 +1,12 @@
-  # John-George Sample
+<p align="center">
+  <samp>
+    <a href="https://johngeorgesample.com/">me</a> .
+    <a href="https://johngeorgesample.com/blog">blog</a> .   
+    <a href="https://pgh.coffee">pgh.coffee</a> .   
+    <a href="https://twitter.com/jg_sample">tweets</a>
+  </samp>
+</p>
 
-   Front-end engineer in Pittsburgh, Pennsylvania.
+I am a Senior Front-end Engineer at Grafana Labs, where I build interfaces for [Adaptive Telemetry](https://grafana.com/products/cloud/adaptive-telemetry/).
 
-   I build web products and maintain [pgh.coffee](https://github.com/Johngeorgesample/pgh-coffee), a guide to Pittsburgh’s coffee scene.
-
-   - Front-end engineer at [Grafana](https://github.com/grafana)
-   - [Personal website](https://johngeorgesample.com)
-   - [pgh.coffee](https://pgh.coffee)
+Away from software, I'm usually working on my pour-over technique or exploring Pittsburgh's coffee shops.
