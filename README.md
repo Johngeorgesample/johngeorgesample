@@ -7,6 +7,6 @@
   </samp>
 </p>
 
-I am a Senior Front-end Engineer at Grafana Labs, where I build interfaces for [Adaptive Telemetry](https://grafana.com/products/cloud/adaptive-telemetry/).
+I am a Senior Front-end Engineer at Grafana Labs where I build interfaces for [Adaptive Telemetry](https://grafana.com/products/cloud/adaptive-telemetry/).
 
 Away from software, I'm usually working on my pour-over technique or exploring Pittsburgh's coffee shops.
